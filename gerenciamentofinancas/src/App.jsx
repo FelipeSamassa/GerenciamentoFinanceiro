@@ -1,5 +1,5 @@
 import './App.css'
-
+import Finance from './Components/Finance'
 
 // Aplicativo de gerenciamento financeiro pessoal
 
@@ -12,7 +12,7 @@ function App() {
         <h1>Gerenciador Financeiro Pessoal</h1>
       </header>
       <main>
-
+        <Finance/>
       </main>
 
     </>
