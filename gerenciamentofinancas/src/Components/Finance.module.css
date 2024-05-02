@@ -46,3 +46,8 @@ section button {
     font-weight: bold;
     background-color: #87CEEB;
 }
+
+.task {
+    width: 100%;
+    text-align: center;
+}
