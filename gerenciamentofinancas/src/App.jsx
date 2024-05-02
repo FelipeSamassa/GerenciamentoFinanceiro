@@ -12,7 +12,7 @@ function App() {
         <h1>Gerenciador Financeiro Pessoal</h1>
       </header>
       <main>
-        <Finance/>
+        <Finance />
       </main>
 
     </>
